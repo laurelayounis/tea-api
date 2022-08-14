@@ -11,7 +11,7 @@ This is an ever evolving REST API with info about tea. To view current endpoints
 4. Open localhost:8000 in browser
 
 ## Roadmap
- EndPoint https://git.heroku.com/simple-tea-api-100devs.git  
+ EndPoint https://git.heroku.com/simple-tea-api-100devs 
  Below is a general roadmap of features in order. 
 
 1. Create an example client side page and deploy so users can test the API endpoints.
